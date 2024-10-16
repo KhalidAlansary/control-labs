@@ -1,0 +1,6 @@
+import control as ct
+
+num = [1, 0]
+den = [1, 14, 56, 160]
+ss = ct.tf2ss(num, den)
+print(ss)
