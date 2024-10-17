@@ -2,7 +2,7 @@
 
 ## 📽️ Demo
 
-![Demo](https://imgur.com/r3nTXeJ)
+![Demo](https://github.com/user-attachments/assets/47ed30e6-afa4-4851-bf0f-cc9139cb7f75)
 
 ## 🤔 What Is `generate_report.py`?
 
